@@ -1,5 +1,7 @@
 # Simple web-app for finance
-Descrition: Development of a Web-App with Python using the package “streamlit”. 
+### Descrition: 
+
+Development of a Web-App with Python using the package “streamlit”. 
 
 
 ### Aim: 
